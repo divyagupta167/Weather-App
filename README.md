@@ -1,4 +1,7 @@
 
+
+![work3](https://github.com/divyagupta167/Weather-App/assets/54738711/0fef06d2-fbf5-4a9b-9eb7-505de83da941)
+
 #Weather App
 The Weather App is a simple web application that allows users to view weather information for different cities. Users can search for a specific city and get real-time weather details, including temperature, humidity, wind speed, sunrise, and sunset time.
 
